@@ -13,4 +13,4 @@ In the folder "bug_reports" contains a few screenshots of bug reports.
 
 In the folder "html_css_js" contains a part of extension for HR (parts that i made and changed), which, when open site with resumes (like LinkedIn) and viewing the candidate's resume, loading data into extension. From extension we can send tests. I made it in 2020 for friends. On terms: I am studying on a real project without pay.\
 In the video i show how it's work. I made styles, active buttons and inputs. Design is not mine. Data loading using the code that was written before me.\
-This is my way of learning html, css and js. I continue to learn a language for automated testing.
+I continue to learn a language for automated testing.
