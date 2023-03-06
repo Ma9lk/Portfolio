@@ -2,7 +2,7 @@
 
 #### – Тут лежат mindmap, чек-листы, текст-кейсы - https://docs.google.com/spreadsheets/d/11T8Z4rcWeRZQL1lHe_PtcYfNO0UtTyXL-PdQ37fdZ6g/edit#gid=251028968
 
-#### – В папке bug_reports несколько скринов баг-репортов.
+#### – https://github.com/Ma9lk/Portfolio/tree/main/bug_reports - cкрины баг-репортов.
 
 #### – Cсылка на другой репозиторий с результатами прохождения курса по автотестированию на Stepik - https://github.com/Ma9lk/autotesting_stepik_course
 
